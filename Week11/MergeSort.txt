@@ -1,0 +1,2 @@
+To perform merge sort, split initial array in half into two lists.
+
